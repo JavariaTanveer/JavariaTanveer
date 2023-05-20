@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
+<img height="250" width= "1000" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
 <h1 align="center">Hi 👋, I'm Javaria Tanveer</h1>
 <h3 align="center">A passionate Software Engineer from Lahore</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5e/81/ab/5e81ab3aeb21b9639014300f326ae1a2.gif">
